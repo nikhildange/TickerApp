@@ -1,0 +1,13 @@
+[{release,"tickerapp","1","5.10.4",
+          [{kernel,"2.16.4",
+                   "/home/ubuntu/TickerApp/rel/tickerapp/lib/kernel-2.16.4"},
+           {stdlib,"1.19.4",
+                   "/home/ubuntu/TickerApp/rel/tickerapp/lib/stdlib-1.19.4"},
+           {sasl,"2.3.4",
+                 "/home/ubuntu/TickerApp/rel/tickerapp/lib/sasl-2.3.4"},
+           {tickerapp,"1",
+                      "/home/ubuntu/TickerApp/rel/tickerapp/lib/tickerapp-1"},
+           {fs,"3.4.0","/home/ubuntu/TickerApp/rel/tickerapp/lib/fs-3.4.0"},
+           {emongo,"1.0.1",
+                   "/home/ubuntu/TickerApp/rel/tickerapp/lib/emongo-1.0.1"}],
+          permanent}].
